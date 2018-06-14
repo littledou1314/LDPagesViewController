@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+//实现有导航和侧滑页面的效果
 @protocol LDChildViewControllerDelegate;
 @protocol LDChildViewControllerProtocol <NSObject>
 @property (nonatomic, assign) CGFloat menuBackgroundViewAlpha;
